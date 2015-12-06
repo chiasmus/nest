@@ -8,9 +8,9 @@ Once you've made your updates, in a Terminal:
 
   cd theme
   git commit -am 'YOUR MESSAGE HERE'
-  git push
+  git push origin HEAD:master
 	
-This will update this repo.
+This will commit your changes and then push the update.
 
 # Nest
 
