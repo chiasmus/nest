@@ -1,3 +1,17 @@
+# Updating this 
+
+Under the `blog-src` folder, there will be a folder, `theme`.
+
+Update css and js and such under `theme/static`.
+
+Once you've made your updates, in a Terminal:
+
+  cd theme
+  git commit -am 'YOUR MESSAGE HERE'
+  git push
+	
+This will update this repo.
+
 # Nest
 
 Nest is a theme for [Pelican](http://getpelican.com) 3.5+, a static site generator written in Python.
