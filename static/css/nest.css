@@ -219,7 +219,7 @@ h4:after {
     background: #f5f5f5;
     padding: 0;
     min-height: 200px;
-    background-image: 'assets/blue_sky.jpg';
+    background-image: url(assets/blue_sky.jpg);
 }
 .header-wrapper{
     padding-left: 40px;
